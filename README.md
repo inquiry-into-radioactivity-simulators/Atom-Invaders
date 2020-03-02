@@ -14,8 +14,8 @@ Using the Atom Invaders simulator students shoot radiation at individual nitroge
 
 #### Controls
 
-Press the `S` key to scan an atom.
-Press the `Z` key to zoom into an atom's nucleus. 
+ - Press the `S` key to scan an atom.
+ - Press the `Z` key to zoom into an atom's nucleus. 
 
 ## Information for Developers
 
